@@ -9,6 +9,7 @@ const saveFirstNumber = (num) => {
   firstNum = parseInt(num)  
 }
 
+
 // this function takes in the number you type in the 2nd input field and saves it to the "secondNum" variable
 const saveSecondNumber = (num) => {
   // "parseInt" is a built in function in JS that converts a string/word into a number
